@@ -107,6 +107,7 @@ body {
     max-width: 1200px; 
     margin: 0 auto; 
     text-align: left; 
+    
 }
 
 .about-image {
@@ -114,6 +115,8 @@ body {
     width: 100%; 
     height: auto; 
     margin-right: 40px;
+    border-radius: 100%;
+    
 }
 
 .about-text {
